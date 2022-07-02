@@ -1,5 +1,5 @@
 # Data Visualization Code
-* Talbe 구성
+* Table 구성
   * 2019_pm_dataset.csv
   * 2020_pm_dataset.csv
   * 2021_pm_dataset.csv
