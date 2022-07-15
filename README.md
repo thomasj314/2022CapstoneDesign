@@ -25,6 +25,10 @@
 * 공공데이터(한국환경공단) 한국환경공단_에어코리아_대기오염통계 현황 
 * https://www.data.go.kr/data/15073855/openapi.do
 
+### 최종 결과물
+[Lakehouse.pdf](https://github.com/thomasj314/2022CapstoneDesign/files/9118899/Lakehouse.pdf)
+
+
 ### 참고링크 및 문헌
 * https://plotly.com/dash/
 * https://databricks.com/
