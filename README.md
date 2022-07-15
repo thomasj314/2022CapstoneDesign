@@ -26,7 +26,7 @@
 * https://www.data.go.kr/data/15073855/openapi.do
 
 ### 최종 결과물
-[Lakehouse.pdf](https://github.com/thomasj314/2022CapstoneDesign/files/9118899/Lakehouse.pdf)
+* [Lakehouse.pdf](https://github.com/thomasj314/2022CapstoneDesign/files/9118899/Lakehouse.pdf)
 
 
 ### 참고링크 및 문헌
